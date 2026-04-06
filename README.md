@@ -90,7 +90,7 @@ Seit 2026 gebe ich Seminare an der **FachTaG Akademie** zu den Themen SEO, Googl
 
 [![Website](https://img.shields.io/badge/synoradzki.de-009ADE?style=flat&logo=google-chrome&logoColor=white)](https://www.synoradzki.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-synoradzki/)
-[![Podcast](https://img.shields.io/badge/Podcast-8B5CF6?style=flat&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/de/podcast/die-1-mann-agentur-seo-ads-ki-im-klartext-vom-freelancer/id1800587870)
+[![Podcast](https://img.shields.io/badge/Podcast-8B5CF6?style=flat&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/de/podcast/die-1-mann-agentur-seo-ads-ki-im-klartext-vom-freelancer/id1826307295)
 
 ---
 
