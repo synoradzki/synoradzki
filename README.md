@@ -16,6 +16,21 @@ Ich helfe Unternehmen, bei Google und in KI-Suchmaschinen gefunden zu werden —
 
 ---
 
+## Idea Files
+
+Inspiriert von [Andrej Karpathys Idea File](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f): Nicht den Code teilen, sondern das Denken dahinter. Jede Datei beschreibt ein Muster — geschrieben, damit ein KI-Agent es lesen und eine eigene Implementierung bauen kann.
+
+**→ [synoradzki/idea-files](https://github.com/synoradzki/idea-files)**
+
+| Idea File | Beschreibung |
+|-----------|-------------|
+| [FAQ-First Chatbot](https://github.com/synoradzki/idea-files/blob/main/faq-first-chatbot.md) | Chatbot der nur aus verifizierten FAQs antwortet — null Halluzination |
+| [MCP-Server als Agenten-Werkzeug](https://github.com/synoradzki/idea-files/blob/main/mcp-server-agent-tools.md) | KI-Agenten Zugriff auf echte Datenquellen geben |
+| [KI-Video-Produktion](https://github.com/synoradzki/idea-files/blob/main/ki-video-produktion.md) | Automatisierte Videos mit Voice Cloning, TikTok-Style |
+| [1-Mann-Agentur Betriebssystem](https://github.com/synoradzki/idea-files/blob/main/ein-mann-agentur-betriebssystem.md) | Komplette Agentur solo betreiben mit KI-Agent als Betriebssystem |
+
+---
+
 ## Tech-Stack
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
